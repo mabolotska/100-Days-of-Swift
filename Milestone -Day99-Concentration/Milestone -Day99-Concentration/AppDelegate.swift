@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Milestone -Day99-Concentration
 //
-//  Created by Maryna Bolotska on 26/12/23.
+//  Created by Maryna Bolotska on 20/12/23.
 //
 
 import UIKit
